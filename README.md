@@ -1,3 +1,3 @@
-# Vistex
+# Regular Polygon Area Calculator
 
-A recruitment task from Vistex company, summer internship program 2018.
+Console application calculating regular polygon area given n (numer of vertices) and s (side length).
