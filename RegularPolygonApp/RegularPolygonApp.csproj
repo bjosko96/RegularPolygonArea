@@ -48,5 +48,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\RegularPolygonLib\RegularPolygonLib.csproj">
+      <Project>{f4c89a30-a93d-45ab-ab2c-2076c06f8c60}</Project>
+      <Name>RegularPolygonLib</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

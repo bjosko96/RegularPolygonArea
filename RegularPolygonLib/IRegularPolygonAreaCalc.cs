@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RegularPolygonLib
 {
-    interface IRegularPolygonAreaCalc
+    public interface IRegularPolygonAreaCalc
     {
         double CalculateArea(double n, double sideLength);
     }

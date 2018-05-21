@@ -9,7 +9,7 @@ namespace RegularPolygonLib
     /// <summary>
     /// factory for IRegularPolygonAreaCalc object
     /// </summary>
-    class RegularPolygonAreaCalcFactory
+    public class RegularPolygonAreaCalcFactory
     {
         /// <summary>
         /// method returning concrete implementation of IRegularPolygonAreaCalc
